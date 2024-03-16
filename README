@@ -1,5 +1,5 @@
 Try writing code about also.
-git,clang,g++,make,cmake,picosat;
-abc,libreadline-dev;
+git,clang,g++,make,cmake,picosat,vim;
+abc,libreadline-dev,graphviz,gv;
 also;
 yosys,tcl-dev,bison,flex,pkg-config;
