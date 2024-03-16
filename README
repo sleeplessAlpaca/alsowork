@@ -1,0 +1,5 @@
+Try writing code about also.
+git,clang,g++,make,cmake,picosat;
+abc,libreadline-dev;
+also;
+yosys,tcl-dev,bison,flex,pkg-config;

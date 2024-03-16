@@ -1,0 +1,9 @@
+[submodule "abc"]
+	path = abc
+	url = https://github.com/berkeley-abc/abc.git
+[submodule "also"]
+	path = also
+	url = https://gitee.com/zfchu/also.git
+[submodule "yosys"]
+	path = yosys
+	url = https://gitee.com/oichip/yosys.git
